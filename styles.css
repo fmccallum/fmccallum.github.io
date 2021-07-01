@@ -1,3 +1,22 @@
+
+@font-face {
+    font-family: 'Trattatelli';
+    src: url('trat/Trattatello.eot');
+    src: url('trat/Trattatello.eot?#iefix') format('embedded-opentype'),
+        url('trat/Trattatello.woff2') format('woff2'),
+        url('trat/Trattatello.woff') format('woff'),
+        url('trat/Trattatello.ttf') format('truetype'),
+        url('trat/Trattatello.svg#Trattatello') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
 body, html {
   height: 100%;
   margin: 0;
@@ -57,7 +76,7 @@ html, body {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 3vw;
-  font-family: Trattatello, fantasy;
+  font-family: Trattatelli;
   color: yellow;
 }
 

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Trattatello';
+    src: url('Trattatello.eot');
+    src: url('Trattatello.eot?#iefix') format('embedded-opentype'),
+        url('Trattatello.woff2') format('woff2'),
+        url('Trattatello.woff') format('woff'),
+        url('Trattatello.ttf') format('truetype'),
+        url('Trattatello.svg#Trattatello') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
